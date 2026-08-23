@@ -1,5 +1,5 @@
 ---
-title: Fix Softbricks
+title: Fix softbricks
 ---
 
 ## What is a softbrick
