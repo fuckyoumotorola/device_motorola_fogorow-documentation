@@ -23,7 +23,7 @@ This guide can also be found on third-party resources<br />
 ### Free method
 For this method, you'll need [this mtkclient fork](https://github.com/shomykohai/mtkclient/archive/refs/heads/main.zip) which includes [Carbonara exploit](https://shomy.is-a.dev/penumbra/Mediatek/Exploits/Carbonara).
 
-1. Download the latest pre-built version of [chouchou](../modding/custom-bootloader-chouchou.mdx) or [kaeru](../modding/custom-bootloader-kaeru.mdx)
+1. Download the latest pre-built version of [chouchou](../modding/custom-bootloader) or [kaeru](../modding/custom-bootloader) or [chikichou](../modding/custom-bootloader)
 2. Install the mtkclient fork from [here](https://github.com/shomykohai/mtkclient/archive/refs/heads/main.zip), and follow the [setup instructions](https://github.com/bkerler/mtkclient?tab=readme-ov-file#install)
 3. Get the DA file from [fuckyoumoto-utils repo](https://github.com/fuckyoumoto/fuckyoumoto-utils/blob/main/sources/fogorow/DA_fogorow.bin)
 4. Run the following commands IN ORDER **WITHOUT DISCONNECTING THE PHONE BETWEEN EACH ONE**
@@ -48,7 +48,7 @@ For this method you need an [AMT Tool](https://androidmultitool.com/) license in
 
 I recommend you rent it from someone for an hour
 
-1. Download the latest pre-built version of [Custom Bootloader (ChouChou)](../modding/custom-bootloader-chouchou.mdx) or [Custom Bootloader (Kaeru)](../modding/custom-bootloader-kaeru.mdx) that matches your firmware version.
+1. Download the latest pre-built version of [Custom Bootloader (ChouChou)](../modding/custom-bootloader.mdx) or [Custom Bootloader (Kaeru)](../modding/custom-bootloader.mdx) or [Custom Bootloader (ChikiChou)](../modding/custom-bootloader.mdx) that matches your firmware version.
 2. Open the AMT tool and flash the **ChouChou** or **Kaeru** to save the unlocked bootloader state after unlocking it
 
    ![2.jpg](../../static/assets/bootloader/2.jpg)
