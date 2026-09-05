@@ -10,12 +10,27 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Info",
-      items: ["info/device-info", "info/fix-softbricks", "info/disassembling", "info/exploits", "info/things-to-avoid", "info/paks"],
+      items: [
+        "info/device-info",
+        "info/fix-softbricks",
+        "info/disassembling",
+        "info/exploits",
+        "info/stuff-to-avoid-at-all-cost",
+        "info/scp",
+        "info/paks",
+      ],
     },
     {
       type: "category",
       label: "Modes",
-      items: ["modes/recovery", "modes/fastboot", "modes/metamode", "modes/brom", "modes/preloader", "modes/pcs"],
+      items: [
+        "modes/recovery",
+        "modes/fastboot",
+        "modes/metamode",
+        "modes/brom",
+        "modes/preloader",
+        "modes/pcs",
+      ],
     },
     {
       type: "category",
@@ -25,6 +40,9 @@ const sidebars: SidebarsConfig = {
         "dev/testpoints",
         "dev/partitions",
         "dev/tools",
+        "dev/mtkclient",
+        "dev/penumbra",
+        "dev/seccfg"
       ],
     },
     {
@@ -44,7 +62,17 @@ const sidebars: SidebarsConfig = {
       type: "category",
       label: "GSI Roms and Custom Roms",
       items: ["gsi_roms/info", "gsi_roms/rating"],
-    }
+    },
+    {
+      type: "category",
+      label: "Download Agent",
+      items: ["da/xml_da_protocol", "da/xflash_da_protocol", "da/da_extensions", "da/download_agent"],
+    },
+    {
+      type: "doc",
+      label: "Schematics",
+      id: "schematics",
+    },
   ],
 };
 

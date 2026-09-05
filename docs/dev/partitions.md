@@ -3,7 +3,7 @@ title: Partitions (UTAS34.82-97-1)
 ---
 
 :::note
-Most sections are only accessible via mtkclient
+Most sections are only accessible via [mtkclient](mtkclient.md)
 :::
 
 [//]: # (✅    | ❌)

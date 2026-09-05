@@ -31,10 +31,6 @@ Don't try flashing to other partitions, as it might result to a softbrick or, in
 
 If you flash lk, be careful.
 
-## Flashing through mtkclient while bootloader is locked.
-
-You'll get a RedState. Unlock the bootloader first.
-
 ## Flashing an older version of the firmware.
 
 Don't flash an older version of the firmware, as it might result to a hardbrick.
